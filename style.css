@@ -1,0 +1,17 @@
+body {
+  font-family: "Supermercado One", cursive;
+  color: rgb(65, 63, 63);
+  display: flex;
+}
+.title {
+  font-size: 50px;
+  padding-left: 70%;
+  padding-top: 15%;
+  height: 50%;
+}
+.box1 {
+  font-size: 50px;
+  padding-left: 10%;
+  padding-top: 5%;
+  height: 50%;
+}
